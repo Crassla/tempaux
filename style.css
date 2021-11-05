@@ -25,6 +25,15 @@ body {
     height: 4%;
 }
 
+.title_image2 {
+    float: left;
+    margin-top: 0.3%;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    width: 4%;
+    height: 4%;
+}
+
 .title_text{
     float: left;
     color: white;

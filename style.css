@@ -131,7 +131,7 @@ ul {
 }
 
 .footer {
-    background: #0552A2;
+    background-image: linear-gradient(to top,black 0%, #0552A2 60%);
     width: 100%;
     height: auto;
     padding: 1%;
